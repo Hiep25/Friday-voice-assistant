@@ -29,7 +29,7 @@
 
  🧪 Cài đặt và sử dụng
 
-### Bước 1: Tải mã nguồn
+ Bước 1: Tải mã nguồn
 
 ```bash
 git clone https://github.com/<ten-cua-ban>/friday-voice-assistant.git
@@ -65,7 +65,7 @@ Bạn có thể nói các câu lệnh sau bằng tiếng Anh:
 ---
 
 
-## 🔧 Định hướng phát triển
+ 🔧 Định hướng phát triển
 
 Một số tính năng có thể bổ sung trong tương lai:
 
